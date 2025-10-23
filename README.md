@@ -18,5 +18,4 @@ install requirements:-
 ``pip install -r requirements.txt``
 
 ## Credits
-Fears
-Metchi
+Fears & Metchi
