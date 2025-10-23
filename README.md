@@ -14,7 +14,8 @@ Python Script Made To Decode Sctx for SuperCell games
 Python 11+
 
 install requirements:-
-pip install -r requirements.txt
+
+``pip install -r requirements.txt``
 
 ## Credits
 Fears
