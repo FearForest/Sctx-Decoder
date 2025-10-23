@@ -1,1 +1,4 @@
-
+Pillow
+zstandard
+numpy
+texture2ddecoder
