@@ -1,6 +1,7 @@
 # Sctx-Decoder
 Python Script Made To Decode Sctx for SuperCell games
-
+## Server
+https://discord.gg/xwXESP3rJ
 ## Usage 
 
 ``python SctxDecode.py Input.sctx output.png(optional)``
